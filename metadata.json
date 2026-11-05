@@ -1,0 +1,6 @@
+{
+  "name": "Parinda Study & Patient Intake Management",
+  "description": "Student and patient registration, attendance tracking, and monthly fee management system with Supabase cloud database sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
